@@ -3,7 +3,7 @@
 // se xp for menor do que 1.00 = ferro se xp for entre 1.001 e 2.000 = bronze 
 let = heroi = {
     nome: "Marlon Brando",
-    xp: -5
+    xp: 1000
 }
 let mensagem = "";
 
